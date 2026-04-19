@@ -91,11 +91,3 @@ CREATE TABLE `itemspedido` (
 
 INSERT INTO usuarios (nome, usuario, senha, direitos)
 values("Gabriel", "Sampaio", "1234", "CLI,PED,PRO,USU");
-
-
--- Se Precisar dar truncate na tabela pedidos
-SET FOREIGN_KEY_CHECKS = 0; 
-
-TRUNCATE TABLE pedidos;
-
-SET FOREIGN_KEY_CHECKS = 1;
