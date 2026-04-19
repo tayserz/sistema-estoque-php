@@ -37,5 +37,5 @@ O projeto segue uma separação entre frontend e backend:
 2. Instale o XAMPP
 3. Coloque a pasta dentro de `C:/xampp/htdocs/`
 4. Importe o arquivo `banco.sql` no phpMyAdmin
-5. Acesse `http://localhost/TCC ETEC` no navegador
+5. Acesse `http://localhost/sistema-estoque-php-main` no navegador
 6. Login padrão: usuário `Sampaio` / senha `1234`
